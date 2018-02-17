@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/parente/wildwolfwatch/master?filepath=%2Flab%2Ftree%2Fwild-wolf-watch-classifications.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/parente/wildwolfwatch/master?filepath=lab%2Ftree%2Fwild-wolf-watch-classifications.ipynb)
 
 An example analysis of data from Wild Wolf Watch (beta) using Jupyter Lab, Pandas, and Binder.
 
