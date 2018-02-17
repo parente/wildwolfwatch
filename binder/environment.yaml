@@ -1,0 +1,8 @@
+name: wild-wolf-watch
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipython
+  - jupyterlab_launcher
+  - pandas
